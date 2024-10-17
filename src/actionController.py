@@ -9,9 +9,9 @@ def passPriority():
 
 def goBack():
     time.sleep(0.5)
-    ag.keyDown('Z')
+    ag.keyDown('y')
     time.sleep(0.1)
-    ag.keyUp('Z')
+    ag.keyUp('y')
 
 # Functions copied from https://github.com/misprit7/MTGAI/blob/master/src/gamecontroller.py
 
